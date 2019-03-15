@@ -1,5 +1,5 @@
 # K-means_K-medoid_Clustering
-Implementation of K-means and K-medoids Clustering algorithms using various techniques for Cluster Initialization and Assignment  
+Implementation of K-means and K-medoids Clustering algorithms using various techniques for Cluster Initialization and Assignment.  
 The program also calculates average silhouette score for each cluster and for all the data points.
 
 
